@@ -100,8 +100,8 @@ class DigitalLibraryManagement{
         userID = sc.next();
         System.out.print("Enter Password: ");
         int password = sc.nextInt();
-        loginto.put("Soumya",13579);
-        loginto.put("Soumyadip",20026);
+        loginto.put("Dipak",13579);
+        loginto.put("Adip",20026);
         
         if (loginto.containsKey(userID) && loginto.get(userID) == password)
         {
@@ -125,10 +125,10 @@ class DigitalLibraryManagement{
         userID = sc.next();
         System.out.print("Enter Password: ");
         int password = sc.nextInt();
-        loginto.put("Soumya",13579);
-        loginto.put("Soumyadip",20026);
-        loginto.put("Soumy",12345);
-        loginto.put("SPal",24680);
+        loginto.put("Dipak",13579);
+        loginto.put("Adip",20026);
+        loginto.put("Anuu",12345);
+        loginto.put("Sai",22222);
         loginto.put("Dip",11111);
         
         if (loginto.containsKey(userID) && loginto.get(userID) == password)
