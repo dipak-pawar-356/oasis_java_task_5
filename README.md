@@ -15,7 +15,7 @@ easily be operated by any non-technical person.
 
 
 
-#Admin module: 
+# Admin module: 
 Admin will have complete control over the system. Admin has permissions to
 update, delete or modify any existing record or make a new entry (books and members). 
 
